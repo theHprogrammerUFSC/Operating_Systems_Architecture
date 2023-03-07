@@ -33,13 +33,14 @@ Repository for the activities of the Operating Systems Architecture discipline a
 
 ## Works
 
-- [Lista Encadeada em Disco]()
-- [Mutex Contador]()
-- [Loteria com Sockets]()
-- [Jantar dos Filósofos]()
-- [Números Primos]()
-- [Leitor e Escritor]()
-- [Semáforos]()
+- [Lista Encadeada em Disco](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_02/LED)
+- [Mutex Contador](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_03/Counter_Mutex)
+- [Loteria com Sockets](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_03/Lottery_Sockets)
+- [Jantar dos Filósofos](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_03/Philosopher_Dinner)
+- [Números Primos](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_03/Prime_Numbers)
+- [Leitor e Escritor](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_03/Reader_Writer)
+- [Semáforos](https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture/tree/main/Works/Unity_03/Semaphore)
+- [Trabalho Final - EXT3 Simulator](https://github.com/theHprogrammer/ASO_EXT3_Simulator)
 
 
 <br>
@@ -51,7 +52,7 @@ Repository for the activities of the Operating Systems Architecture discipline a
 4. Open Git Bash.
 5. Type git clone (clone git) and paste the URL you copied earlier.
 ```c
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/theHprogrammerUFSC/Operating_Systems_Architecture.git
 ```
 6. Press Enter to create your local clone.
 
